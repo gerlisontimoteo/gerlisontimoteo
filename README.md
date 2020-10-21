@@ -4,7 +4,7 @@
 Junior Full Stack Java Developer
 
 ## Skills: 
-JAVA / REACT / JS / HTML / CSS / BOOTSTRAP/ DOM / SCR
+JAVA / REACT / JS / HTML / CSS / BOOTSTRAP/ DOM / SCRUM
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gerlisontimoteo)](https://github.com/anuraghazra/github-readme-stats)
 

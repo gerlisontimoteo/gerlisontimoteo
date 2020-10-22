@@ -1,7 +1,7 @@
 <center>
   <h2> Hello! I'm Gerlison! 😀 </h2>
   <h3> Junior Full Stack Java Developer </h3>
-  <h3>  [![Linkedin Badge](https://img.shields.io/badge/-Vitor_Sales-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorsalesdev///)](https://www.linkedin.com/in/vitorsalesdev/)</h3>
+  <h3>  [![Linkedin Badge](https://img.shields.io/badge/-Gerlison_Timoteo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gerlison-timoteo///)](https://www.linkedin.com/in/gerlison-timoteo/)</h3>
   </center>
   
   

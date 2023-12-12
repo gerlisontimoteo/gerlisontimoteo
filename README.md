@@ -1,6 +1,6 @@
 <center>
   <h2> Hello! I'm Gerlison! 😀 </h2>
-  <h3> Junior Full Stack Java Developer </h3>
+  <h3> Backend Developer </h3>
   <a href = "https://www.linkedin.com/in/gerlison-timoteo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </center>
   <hr>
